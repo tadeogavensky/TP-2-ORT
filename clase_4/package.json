@@ -1,0 +1,14 @@
+{
+  "name": "clase_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios_4.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
