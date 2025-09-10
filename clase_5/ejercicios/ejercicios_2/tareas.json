@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1678886400000,
+    "texto": "Comprar pan",
+    "completada": false
+  },
+  {
+    "id": 1678886401000,
+    "texto": "Estudiar Node.js",
+    "completada": true
+  }
+]
