@@ -1,12 +1,37 @@
 [
   {
-    "id": 1678886400000,
-    "texto": "Comprar pan",
+    "id": 1678886402000,
+    "texto": "Llamar al médico",
+    "completada": true
+  },
+  {
+    "id": 1678886403000,
+    "texto": "Pagar la factura de luz",
     "completada": false
   },
   {
-    "id": 1678886401000,
-    "texto": "Estudiar Node.js",
+    "id": 1678886404000,
+    "texto": "Hacer ejercicio",
     "completada": true
+  },
+  {
+    "id": 1678886405000,
+    "texto": "Enviar CV actualizado",
+    "completada": false
+  },
+  {
+    "id": 1678886406000,
+    "texto": "Leer 20 páginas de un libro",
+    "completada": true
+  },
+  {
+    "id": 1757797432507,
+    "texto": "Pasear a Bruno",
+    "completada": true
+  },
+  {
+    "id": 1757798363057,
+    "texto": "Comprar carne",
+    "completada": false
   }
 ]
